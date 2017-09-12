@@ -24,11 +24,7 @@
     [self.navigationBar setBarTintColor:GM_RGBColor(48, 50, 57)];
     //文字颜色设置
     [self.navigationBar setTitleTextAttributes:@{NSForegroundColorAttributeName:[UIColor whiteColor]}];
-<<<<<<< Updated upstream
-    //设置状态栏模式
-=======
     //设置状态栏
->>>>>>> Stashed changes
     //self.navigationBar.barStyle = UIBarStyleBlack;
     //半透明状态设置为NO
     [self.navigationBar setTranslucent:NO];

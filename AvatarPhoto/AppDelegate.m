@@ -25,8 +25,6 @@
     
     GMNavigationController * nav = [[GMNavigationController alloc] initWithRootViewController:viewCtrl];
     
-  
-    
     self.window.rootViewController = nav;
     
     [self.window makeKeyAndVisible];
